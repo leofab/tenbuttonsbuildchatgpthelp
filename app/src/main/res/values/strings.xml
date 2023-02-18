@@ -10,4 +10,5 @@
     <string name="button_8">Button 8</string>
     <string name="button_9">Button 9</string>
     <string name="button_10">Button 10</string>
+    <string name="this_is_the_second_view_page">This is the second view page</string>
 </resources>
